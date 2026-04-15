@@ -1,0 +1,6 @@
+[submodule "ReBoundaryMain"]
+	path = ReBoundaryMain
+	url = https://github.com/SpaceOdyssey2026/ReBoundaryMain.git
+[submodule "ReBoundaryMetaServer"]
+	path = ReBoundaryMetaServer
+	url = https://github.com/SpaceOdyssey2026/ReBoundaryMetaServer.git
